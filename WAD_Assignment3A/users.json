@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Rajvardhan Tipugade", "email": "raj@example.com", "role": "SWE Intern" },
+    { "id": 2, "name": "John Doe", "email": "john@example.com", "role": "Full Stack Developer" },
+    { "id": 3, "name": "Jane Smith", "email": "jane@example.com", "role": "UI/UX Designer" },
+    { "id": 4, "name": "Alice Wilson", "email": "alice@example.com", "role": "DevOps Engineer" }
+]
